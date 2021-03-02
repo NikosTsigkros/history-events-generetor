@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/history-events-generetor/static/css/main.03e77808.chunk.css",
+    "main.js": "/history-events-generetor/static/js/main.9ed0f8a7.chunk.js",
+    "main.js.map": "/history-events-generetor/static/js/main.9ed0f8a7.chunk.js.map",
+    "runtime-main.js": "/history-events-generetor/static/js/runtime-main.237f60ea.js",
+    "runtime-main.js.map": "/history-events-generetor/static/js/runtime-main.237f60ea.js.map",
+    "static/js/2.94c805ff.chunk.js": "/history-events-generetor/static/js/2.94c805ff.chunk.js",
+    "static/js/2.94c805ff.chunk.js.map": "/history-events-generetor/static/js/2.94c805ff.chunk.js.map",
+    "static/js/3.49db3241.chunk.js": "/history-events-generetor/static/js/3.49db3241.chunk.js",
+    "static/js/3.49db3241.chunk.js.map": "/history-events-generetor/static/js/3.49db3241.chunk.js.map",
+    "index.html": "/history-events-generetor/index.html",
+    "static/css/main.03e77808.chunk.css.map": "/history-events-generetor/static/css/main.03e77808.chunk.css.map",
+    "static/js/2.94c805ff.chunk.js.LICENSE.txt": "/history-events-generetor/static/js/2.94c805ff.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/history-events-generetor/static/media/AkayaKanadaka-Regular.71c53e48.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.237f60ea.js",
+    "static/js/2.94c805ff.chunk.js",
+    "static/css/main.03e77808.chunk.css",
+    "static/js/main.9ed0f8a7.chunk.js"
+  ]
+}
